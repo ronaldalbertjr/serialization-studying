@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\bin\Debug\serialization-studying.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\bin\Debug\serialization-studying.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\bin\Debug\serialization-studying.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\obj\Debug\serialization-studying.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\obj\Debug\serialization_studying.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\obj\Debug\serialization_studying.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\obj\Debug\serialization-studying.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\obj\Debug\serialization-studying.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\serialization-studying\serialization-studying\obj\Debug\serialization-studying.pdb
