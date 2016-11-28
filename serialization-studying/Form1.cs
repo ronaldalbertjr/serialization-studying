@@ -12,6 +12,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace serialization_studying
 {
+    //Estudando Serializacão
     public partial class Form1 : Form
     {
         BinaryFormatter bf = new BinaryFormatter();
